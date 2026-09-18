@@ -12,4 +12,6 @@ Features include:
 - Developer and WebView tools
 - Tab support and session restoration
 
+Docs: [M3 Browser Docs](https://github.com/TheuXs08/M3-Browser-Docs)
+
 Download: [Github](https://github.com/TheuXs08/M3-Browser) or [Sketchub](https://web.sketchub.in/p/32018)
